@@ -1,1 +1,2 @@
 Feature 1: User Authentication System
+Updated authentication requirements
